@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-21)
+## Unreleased (2025-02-05)
+
+<section class="features">
+
+### Features
+
+-   [`7a1ab74`](https://github.com/stdlib-js/stdlib/commit/7a1ab74ab292080a1479851e0986a781c7a88c1a) - add C implementation for `stats/base/dists/betaprime/mode` [(#4065)](https://github.com/stdlib-js/stdlib/pull/4065)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3442](https://github.com/stdlib-js/stdlib/issues/3442)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`7a1ab74`](https://github.com/stdlib-js/stdlib/commit/7a1ab74ab292080a1479851e0986a781c7a88c1a) - **feat:** add C implementation for `stats/base/dists/betaprime/mode` [(#4065)](https://github.com/stdlib-js/stdlib/pull/4065) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`68894a1`](https://github.com/stdlib-js/stdlib/commit/68894a16cc999587091fdc3b014d21b64d3dde79) - **bench:** refactor random number generation in `stats/base/dists/betaprime` [(#4840)](https://github.com/stdlib-js/stdlib/pull/4840) _(by Karan Anand)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Neeraj Pathak
+-   Philipp Burckhardt
 
 </section>
 
