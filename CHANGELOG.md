@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-06-30)
+## 0.3.0 (2026-01-25)
 
 <section class="features">
 
@@ -34,8 +34,9 @@ A total of 2 issues were closed in this release:
 
 <details>
 
--   [`5301df6`](https://github.com/stdlib-js/stdlib/commit/5301df6699ae3b3229da3a8ab0ecd281f02f460e) - **bench:** update random value generation [(#6841)](https://github.com/stdlib-js/stdlib/pull/6841) _(by Harsh)_
--   [`b59ce6f`](https://github.com/stdlib-js/stdlib/commit/b59ce6ffab63e0027ac910b7c91a9082edea925e) - **docs:** replace manual `for` loop in examples [(#6831)](https://github.com/stdlib-js/stdlib/pull/6831) _(by Harsh)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
+-   [`5301df6`](https://github.com/stdlib-js/stdlib/commit/5301df6699ae3b3229da3a8ab0ecd281f02f460e) - **bench:** update random value generation [(#6841)](https://github.com/stdlib-js/stdlib/pull/6841) _(by Harsh Yadav)_
+-   [`b59ce6f`](https://github.com/stdlib-js/stdlib/commit/b59ce6ffab63e0027ac910b7c91a9082edea925e) - **docs:** replace manual `for` loop in examples [(#6831)](https://github.com/stdlib-js/stdlib/pull/6831) _(by Harsh Yadav)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`0258691`](https://github.com/stdlib-js/stdlib/commit/0258691625414f4a12a7a9c867adae7c9b2b0525) - **chore:** address commit comments for `betaprime/mode` [(#5080)](https://github.com/stdlib-js/stdlib/pull/5080) _(by Saurabh Singh)_
 -   [`7a1ab74`](https://github.com/stdlib-js/stdlib/commit/7a1ab74ab292080a1479851e0986a781c7a88c1a) - **feat:** add C implementation for `stats/base/dists/betaprime/mode` [(#4065)](https://github.com/stdlib-js/stdlib/pull/4065) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
@@ -53,7 +54,7 @@ A total of 2 issues were closed in this release:
 
 A total of 5 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Neeraj Pathak
 -   Philipp Burckhardt
