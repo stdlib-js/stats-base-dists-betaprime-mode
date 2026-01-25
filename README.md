@@ -69,7 +69,7 @@ where `α > 0` is the first shape parameter and `β > 0` is the second shape par
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-betaprime-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-betaprime-mode@v0.3.0-esm/index.mjs';
 ```
 
 #### mode( alpha, beta )
@@ -146,7 +146,7 @@ v = mode( 1.0, -1.0 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-betaprime-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-betaprime-mode@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
