@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-24)
+## Unreleased (2026-06-28)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`8842552`](https://github.com/stdlib-js/stdlib/commit/884255265619ee97385a996f5444d6a437c789a1) - **bench:** refactor to use string interpolation in `stats/base/dists/betaprime` [(#10050)](https://github.com/stdlib-js/stdlib/pull/10050) _(by Harsh Yadav)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Harsh Yadav
+-   Philipp Burckhardt
 
 </section>
 
